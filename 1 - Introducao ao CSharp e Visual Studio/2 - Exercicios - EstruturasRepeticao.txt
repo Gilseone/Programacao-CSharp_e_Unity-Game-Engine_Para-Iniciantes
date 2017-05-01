@@ -1,0 +1,17 @@
+1. Escreva um programa em C# que lê 15 valores reais, encontra o maior e o menor deles e mostra o resultado.
+
+2. Faça um programa em C# para exibir a tabuada de 1 a 10.
+
+3. Faça um programa em C# que calcula e escreve a seguinte soma: 
+soma = 1/1  +  3/2  + 5/3 + 7/4 + ... + 99/50
+
+4. Faça um programa em C# que calcula a soma dos números digitados pelo usuário.
+O programa em C# deve permitir que o usuário digite uma quantidade não determinada de números. 
+O programa em C# encerra quando o usuário digita o valor -1;
+
+5. Dado um número n inteiro e positivo, dizemos que n é perfeito se n for igual à soma de seus divisores
+positivos diferentes de n. Construa um programa em C que verifica se um dado número é perfeito.
+Ex: 6 é perfeito, pois 1 + 2 + 3 = 6.
+
+6. Faça um programa que leia um número n e imprima se ele é primo ou não.
+(um número primo tem apenas 2 divisores: 1 e ele mesmo! O número 1 não é primo!!!) 

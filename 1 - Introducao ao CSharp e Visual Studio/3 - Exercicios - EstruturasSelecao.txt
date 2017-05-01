@@ -1,0 +1,14 @@
+1. Faça um programa em C# que peça três números ao usuário e mostre qual o maior e qual o menor.
+
+2. Escreva um programa em C# que recebe dois números inteiro. O primeiro valor deve ser maior que o segundo.
+No final diga se o resto da divisão do primeiro número pelo segundo é par ou ímpar.
+Use o operador matemático % (resto da divisão ou módulo) e o teste condicional if.
+
+3. Escreva um programa em C# que pergunte o raio de uma circunferência, e sem seguida mostre o diâmetro,
+comprimento e área da circunferência.
+
+4. Para doar sangue é necessário ter entre 18 e 67 anos. Faça um aplicativo na linguagem em C# que pergunte
+a idade de uma pessoa e diga se ela pode doar sangue ou não. Use alguns dos operadores lógicos OU (||) e E (&&).
+
+5. Escreva um programa em C# que pergunte o dia, mês e ano do aniversário de uma pessoa e diga se a data é válida ou não.
+Caso não seja, diga o motivo.
